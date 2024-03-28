@@ -1,0 +1,65 @@
+IP地址,端口,TLS,数据中心,国家,地区,城市,ASN,ORG,延迟(ms),速度(MB/s)
+47.236.130.95,2083,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",276,9.49
+47.76.178.146,2096,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",182,8.78
+103.235.18.220,46400,TRUE,HKG,HK,Asia Pacific,Hong Kong,40065,CNSERVERS,319,7.87
+47.242.155.183,8443,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",195,7.1
+18.162.246.23,8443,TRUE,HKG,HK,Asia Pacific,Hong Kong,16509,AMAZON-02,693,6.69
+158.179.186.123,8443,TRUE,HKG,HK,Asia Pacific,Hong Kong,31898,ORACLE-BMC-31898,450,5.39
+114.202.178.117,30066,TRUE,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,416,4.55
+47.76.94.15,2083,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",195,4.28
+183.236.51.45,26467,TRUE,HKG,HK,Asia Pacific,Hong Kong,9808,"China Mobile Communications Group Co., Ltd.",435,3.86
+58.242.129.73,26222,TRUE,HKG,HK,Asia Pacific,Hong Kong,4837,CHINA UNICOM China169 Backbone,255,3.2
+103.225.199.146,58591,TRUE,HKG,HK,Asia Pacific,Hong Kong,40065,CNSERVERS,307,3.17
+158.179.186.123,2096,TRUE,HKG,HK,Asia Pacific,Hong Kong,31898,ORACLE-BMC-31898,410,3.09
+20.189.117.178,8081,TRUE,HKG,HK,Asia Pacific,Hong Kong,8075,MICROSOFT-CORP-MSN-AS-BLOCK,403,3.06
+103.225.199.146,58589,TRUE,HKG,HK,Asia Pacific,Hong Kong,40065,CNSERVERS,285,3.04
+218.234.165.102,11337,TRUE,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,399,3
+101.32.187.87,5005,TRUE,HKG,HK,Asia Pacific,Hong Kong,132203,"Tencent Building, Kejizhongyi Avenue",200,2.97
+58.242.129.73,25043,TRUE,HKG,HK,Asia Pacific,Hong Kong,4837,CHINA UNICOM China169 Backbone,255,2.95
+118.220.237.188,19142,TRUE,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,372,2.87
+180.71.86.190,30070,TRUE,TPE,TW,Asia Pacific,Taipei,9318,SK Broadband Co Ltd,497,2.78
+58.242.129.73,25274,TRUE,HKG,HK,Asia Pacific,Hong Kong,4837,CHINA UNICOM China169 Backbone,253,2.75
+116.124.95.160,34428,TRUE,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,410,2.7
+47.76.94.15,2096,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",204,2.61
+183.236.51.45,25190,TRUE,HKG,HK,Asia Pacific,Hong Kong,9808,"China Mobile Communications Group Co., Ltd.",237,2.6
+58.238.88.129,34496,TRUE,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,402,2.55
+58.82.242.199,12170,TRUE,HKG,HK,Asia Pacific,Hong Kong,137872,China Mobile Hong Kong Company Limited,896,2.54
+58.242.129.73,25948,TRUE,HKG,HK,Asia Pacific,Hong Kong,4837,CHINA UNICOM China169 Backbone,276,2.38
+58.242.129.73,44000,TRUE,HKG,HK,Asia Pacific,Hong Kong,4837,CHINA UNICOM China169 Backbone,256,2.37
+43.155.117.16,2443,TRUE,HKG,HK,Asia Pacific,Hong Kong,132203,"Tencent Building, Kejizhongyi Avenue",208,2.03
+1.224.98.149,30267,TRUE,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,371,1.95
+156.251.179.136,34237,TRUE,HKG,HK,Asia Pacific,Hong Kong,40065,CNSERVERS,284,1.9
+43.229.154.121,39028,TRUE,HKG,HK,Asia Pacific,Hong Kong,40065,CNSERVERS,284,1.9
+58.242.129.73,28955,TRUE,HKG,HK,Asia Pacific,Hong Kong,4837,CHINA UNICOM China169 Backbone,265,1.86
+58.242.129.73,26749,TRUE,HKG,HK,Asia Pacific,Hong Kong,4837,CHINA UNICOM China169 Backbone,275,1.75
+118.220.83.80,22083,TRUE,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,338,1.67
+1.242.112.100,30045,TRUE,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,429,1.63
+210.6.194.30,4434,TRUE,HKG,HK,Asia Pacific,Hong Kong,9269,Hong Kong Broadband Network Ltd.,346,1.59
+183.236.51.45,45000,TRUE,HKG,HK,Asia Pacific,Hong Kong,9808,"China Mobile Communications Group Co., Ltd.",294,1.51
+1.237.224.43,30205,TRUE,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,430,1.51
+183.236.51.45,27526,TRUE,HKG,HK,Asia Pacific,Hong Kong,9808,"China Mobile Communications Group Co., Ltd.",291,1.41
+103.235.18.220,25509,TRUE,HKG,HK,Asia Pacific,Hong Kong,40065,CNSERVERS,301,1.37
+8.218.163.29,4430,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",234,1.18
+223.18.129.85,12345,TRUE,HKG,HK,Asia Pacific,Hong Kong,9304,HGC Global Communications Limited,751,1.17
+1.237.229.226,22082,TRUE,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,675,1.15
+175.121.253.221,39093,TRUE,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,381,1.13
+8.218.3.12,2096,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",175,1.12
+154.88.30.16,34237,TRUE,HKG,HK,Asia Pacific,Hong Kong,40065,CNSERVERS,280,1.1
+8.210.3.24,2087,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",172,1.07
+183.236.51.45,31242,TRUE,HKG,HK,Asia Pacific,Hong Kong,9808,"China Mobile Communications Group Co., Ltd.",294,0.98
+151.145.69.105,8443,TRUE,HKG,HK,Asia Pacific,Hong Kong,31898,ORACLE-BMC-31898,445,0.98
+40.83.120.192,8443,TRUE,HKG,HK,Asia Pacific,Hong Kong,8075,MICROSOFT-CORP-MSN-AS-BLOCK,378,0.96
+120.232.198.141,25146,TRUE,HKG,HK,Asia Pacific,Hong Kong,56040,China Mobile communications corporation,274,0.9
+47.243.203.119,2087,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",199,0.64
+58.242.129.73,25272,TRUE,HKG,HK,Asia Pacific,Hong Kong,4837,CHINA UNICOM China169 Backbone,233,0.62
+118.220.237.188,35432,TRUE,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,379,0.62
+58.242.129.73,25359,TRUE,HKG,HK,Asia Pacific,Hong Kong,4837,CHINA UNICOM China169 Backbone,338,0.61
+114.201.222.64,15193,TRUE,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,406,0.52
+119.28.58.214,10007,TRUE,HKG,HK,Asia Pacific,Hong Kong,132203,"Tencent Building, Kejizhongyi Avenue",311,0.49
+18.162.177.90,8443,TRUE,HKG,HK,Asia Pacific,Hong Kong,16509,AMAZON-02,401,0.41
+120.232.198.141,25543,TRUE,HKG,HK,Asia Pacific,Hong Kong,56040,China Mobile communications corporation,383,0.31
+154.204.44.195,8080,TRUE,HKG,HK,Asia Pacific,Hong Kong,133199,SonderCloud Limited,216,0.23
+154.88.31.91,30000,TRUE,HKG,HK,Asia Pacific,Hong Kong,40065,CNSERVERS,306,0.22
+221.124.49.233,10003,TRUE,HKG,HK,Asia Pacific,Hong Kong,9304,HGC Global Communications Limited,730,0.16
+111.20.226.42,12311,TRUE,SJC,US,North America,San Jose,9808,"China Mobile Communications Group Co., Ltd.",807,0.15
+43.154.196.20,65432,TRUE,HKG,HK,Asia Pacific,Hong Kong,132203,"Tencent Building, Kejizhongyi Avenue",261,0.1
